@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bounding-box:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bounding_box_jar</output-path>
+    <root id="archive" name="bounding-box.jar">
+      <element id="module-output" name="bounding-box" />
+    </root>
+  </artifact>
+</component>
